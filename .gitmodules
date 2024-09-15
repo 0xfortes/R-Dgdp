@@ -1,0 +1,3 @@
+[submodule "eurostat-frontend"]
+	path = eurostat-frontend
+	url = https://github.com/username/eurostat-frontend.git
