@@ -114,7 +114,7 @@ const ExpenditureChart = () => {
       axios.get('http://localhost:8000/api/expenditures/')
         .then(response => {
           const data = response.data;
-          const years = [...new Set(data.map(item => item.year))];
+          const years = [...new Set(data.map(item => item.year))].sort((a, b) => a - b); // Sort years numerically
           const countryData = data.filter(item => item.country === selectedCountry);
 
           const datasets = [{
