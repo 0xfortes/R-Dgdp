@@ -3,7 +3,7 @@
 ## Overview
 This project is built to visualize the percentage of Gross Domestic Product (GDP) that each country invests in Research and Development (R&D). It serves as a practical learning exercise for working with Django, PostgreSQL, and API integration.
 
-## Technologies Used
+## Technology Stack
 - Backend: Django
 - Database: PostgreSQL
 - Frontend: React
