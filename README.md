@@ -20,4 +20,4 @@ This project is built to visualize the percentage of Gross Domestic Product (GDP
 2. Practice database management using PostgreSQL
 
 
-This project is primarily for personal learning purposes, but suggestions and feedback are welcome. 
+This project is primarily for personal learning purposes.
